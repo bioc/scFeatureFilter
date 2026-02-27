@@ -1,4 +1,4 @@
-# scFeatureFilter 1.32.1 (2026-02-23)
+# scFeatureFilter 1.30.1 (2026-02-23)
 + dplyr filter_() replacment
 + converting some steps into native pipe
 
